@@ -1,4 +1,7 @@
-### Hi there 👋
+![Evgeniy's Talko GitHub stats](https://github-readme-stats.vercel.app/api?username=mistical2008&show_icons=true&theme=radical) <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistical2008&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **mistical2008/mistical2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
